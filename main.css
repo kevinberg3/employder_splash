@@ -1,0 +1,138 @@
+body {
+  height: 100vh;
+  background-color: #fff; 
+  background-image: 
+  linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+  linear-gradient(#eee .1em, transparent .1em);
+  background-size: 100% 1.2em;
+  }
+
+
+.form {
+
+  font-family: 'Delius Swash Caps', cursive;
+  padding: 10px;
+  margin: 10px;
+  margin-right: 12.5%;
+  margin-left: 12.5%;
+  color: blue;
+  font-size: xx-large;
+  text-align: center;
+  border: 10px solid;
+  border-radius: 40px;
+  background: gray;
+  
+  background:rgba(255,255,255,0.5);
+  
+}
+
+
+.content {
+  margin: 15px;
+  padding: 1%;
+  /*border-top: 3px solid black;
+  border-bottom: 3px solid black;*/
+}
+
+.helper {
+  background-color: #0772A1;
+  opacity: .8;
+  color: white;
+  font-family: 
+  border-radius: 5px;
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+  font-size: xx-large;
+  padding: 25px;
+  font-family: 'Arvo', serif;
+  border-radius: 25px;
+}
+
+#mc_embed_signup {
+  
+ 
+  
+  text-align: center;
+  
+}
+#mce-EMAIL {
+  text-align: center;
+  width: 200px;
+  height: 25px;
+  margin-bottom: 5px
+}
+.button{
+
+  -webkit-appearance: none;
+  -webkit-background-clip: border-box;
+  -webkit-background-origin: padding-box;
+  -webkit-background-size: auto;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 3px 0px;
+  -webkit-font-smoothing: auto;
+  -webkit-writing-mode: horizontal-tb;
+  align-items: flex-start;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: rgb(45, 174, 191);
+  background-image: url(http://zurb.com/blog_uploads/0000/0617/alert-overlay.png);
+  background-origin: padding-box;
+  background-size: auto;
+  border-bottom-color: rgba(0, 0, 0, 0.247059);
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  text-align: center;
+  border-left-color: rgb(255, 255, 255);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgb(255, 255, 255);
+  border-right-style: none;
+  border-right-width: 0px;
+  border-top-color: rgb(255, 255, 255);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top-style: none;
+  border-top-width: 0px;
+  box-shadow: rgba(0, 0, 0, 0.498039) 0px 1px 3px 0px;
+  box-sizing: border-box;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Arvo', serif;
+  font-size: xx-large;
+  font-style: normal;
+  
+  height: 35px;
+  letter-spacing: normal;
+  line-height: 14px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 9px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 8px;
+  position: relative;
+  
+  text-decoration: none;
+  text-indent: 0px;
+  text-shadow: rgba(0, 0, 0, 0.247059) 0px -1px 1px;
+  text-transform: none;
+  width: 188px;
+  word-spacing: 0px;
+  writing-mode: lr-tb;
+
+}
+
+.button:hover {
+  color: black;
+}
+
