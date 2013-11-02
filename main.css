@@ -18,8 +18,8 @@ body {
   color: blue;
   font-size: xx-large;
   text-align: center;
-  border: 10px solid;
-  border-radius: 40px;
+  /*border: 10px solid;*/
+  /*border-radius: 40px;*/
   background: gray;
   
   background:rgba(255,255,255,0.5);
@@ -36,16 +36,18 @@ body {
 
 .helper {
   background-color: #0772A1;
-  opacity: .8;
+  
   color: white;
   font-family: 
   border-radius: 5px;
-  width: 30%;
+  width: 250px;
   text-align: center;
   display: inline-block;
   font-size: xx-large;
-  padding: 25px;
+  padding: 5%;
   font-family: 'Arvo', serif;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
   border-radius: 25px;
 }
 
