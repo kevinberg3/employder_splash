@@ -67,6 +67,10 @@ body {
   height: 25px;
   margin-bottom: 5px
 }
+
+#mce-responses {
+  font-size: medium;
+}
 .button{
 
   -webkit-appearance: none;
