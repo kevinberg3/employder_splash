@@ -66,8 +66,8 @@ body {
   margin-bottom: 5px
 }
 
-#mce-responses {
-  font-size: medium;
+#mce-responses .response {
+  font-size: small;
 }
 .button{
 
