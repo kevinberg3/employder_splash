@@ -34,13 +34,16 @@ body {
   border-bottom: 3px solid black;*/
 }
 
+
+
+
 .helper {
   background-color: #0772A1;
   
   color: white;
   font-family: 
   border-radius: 5px;
-  width: 250px;
+  width: 300px;
   text-align: center;
   display: inline-block;
   font-size: xx-large;
